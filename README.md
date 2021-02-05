@@ -1,1 +1,1 @@
-# python-tkinter-GUI-
+# Practice tkinter module :)
