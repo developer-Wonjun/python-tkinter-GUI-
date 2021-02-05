@@ -15,3 +15,4 @@ label = Label(window, text="계산결과 : ")
 label.pack()
 
 window.mainloop()
+
